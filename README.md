@@ -14,8 +14,9 @@ This project analyzes retail sales performance using Python, SQL, and Power BI.
 - Profit & loss trends
 - Category-wise revenue insights
 
-## Dashboard
-Power BI dashboard included in DashBoards folder.
+## 📊 Superstore Sales Dashboard (Tableau)
+
+![Dashboard](DashBoards/Dashboard%201.png)
 
 ## Author
 Praneel Reddy

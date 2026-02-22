@@ -13,6 +13,11 @@ This project analyzes retail sales performance using Python, SQL, and Power BI.
 - Regional sales performance analysis
 - Profit & loss trends
 - Category-wise revenue insights
+- 
+- ## 📊 Live Tableau Dashboard
+
+🔗 View Interactive Dashboard:
+https://public.tableau.com/app/profile/praneel.reddy.kanduri/viz/superstore_dashboard_17717392649970/Dashboard1
 
 ## 📊 Superstore Sales Dashboard (Tableau)
 

@@ -25,7 +25,10 @@ This project analyzes retail sales performance using Python, SQL, and Power BI.
 - Regional sales performance analysis
 - Profit & loss trends
 - Category-wise revenue insights
-- 
+
+## Project Architecture
+Raw Data → Data Cleaning (Python) → SQL Analysis → Tableau Dashboard → Business Insights
+
 - ## 📊 Live Tableau Dashboard
 
 🔗 View Interactive Dashboard:

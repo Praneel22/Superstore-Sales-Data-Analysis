@@ -1,5 +1,17 @@
 # Superstore Sales Data Analysis
 
+Business Problem:
+Analyze retail sales performance to identify revenue trends,
+customer behavior patterns, and product profitability insights.
+
+Tools Used:
+Python | SQL | Tableau | Pandas | Data Visualization
+
+Key Outcomes:
+• Identified top-performing regions and categories
+• Improved understanding of profit vs sales trends
+• Built executive-level interactive dashboard
+
 ## Project Overview
 This project analyzes retail sales performance using Python, SQL, and Power BI.
 
